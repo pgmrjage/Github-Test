@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	string name = "Juan Dela Cruz";
+	string name = "Jan Anthony Q. Geraldez";
 
 	cout << "Sample name: " << name;
 
