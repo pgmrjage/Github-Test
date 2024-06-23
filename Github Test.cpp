@@ -3,9 +3,13 @@ using namespace std;
 
 int main()
 {
-	string name = "Jan Anthony Q. Geraldez";
+	int num1, num2, sum;
 
-	cout << "Sample name: " << name;
+
+	cout << "First number: ";cin >> num1;
+	cout << "Second number: ";cin >> num2;
+	sum = num1 + num2;
+	cout << "Results: " << sum;
 
 	return 0;
 
